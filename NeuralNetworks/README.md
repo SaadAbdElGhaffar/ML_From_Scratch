@@ -1,4 +1,4 @@
-# Data Science Project
+# Impelement Nueral Network
 
 This project implements a simple neural network from scratch using Python, alongside a comparison with the Scikit-learn library. The project focuses on binary classification using the "moons" dataset, which is a common benchmark for evaluating classification algorithms.
 
