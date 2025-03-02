@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. Navigate to the project directory:
 
    ```
-   cd gradient-descent-project
+   cd GradientDescent
    ```
 
 2. Run the training script to execute the gradient descent algorithms:
